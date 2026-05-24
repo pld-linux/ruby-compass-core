@@ -6,7 +6,7 @@
 Summary:	The Compass core stylesheet library
 Name:		ruby-%{pkgname}
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 Source0:	https://rubygems.org/downloads/%{pkgname}-%{version}.gem
